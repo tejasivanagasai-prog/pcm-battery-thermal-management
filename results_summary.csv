@@ -1,0 +1,5 @@
+design,arrangement,peak_battery_temp_K,min_battery_temp_K,battery_temp_spread_K,mean_liquid_fraction,max_local_liquid_fraction
+1,see figures,315.1,314.1,1.0,0.741,0.809
+2,two staggered rows of six,315.0,314.0,1.0,0.725,0.785
+3,see figures,315.5,313.4,2.1,0.744,0.903
+4,see figures,315.7,314.1,1.6,0.844,0.946
