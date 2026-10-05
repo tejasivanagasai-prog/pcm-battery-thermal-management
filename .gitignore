@@ -1,0 +1,18 @@
+# ANSYS / Fluent working files (large, binary, not needed to read the results)
+*.cas
+*.dat
+*.cas.h5
+*.dat.h5
+*.msh
+*.msh.h5
+*.trn
+*.bak
+*.wbpj
+*_files/
+cleanup-fluent-*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
